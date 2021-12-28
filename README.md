@@ -1,5 +1,7 @@
 # Canary CREST Research Code
 
+![image](https://user-images.githubusercontent.com/57341225/147578592-132b7529-2281-42e1-8589-c5e9eaee27fa.png)
+
 Source code regarding my research during the Canary CREST Research Program, Summer 2021. 
 
 Project: "Registration of the T2 and DWI b1200 MRI Sequences of the Prostate". 
