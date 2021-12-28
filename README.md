@@ -4,7 +4,7 @@ Source code regarding my research during the Canary CREST Research Program, Summ
 
 Project: "Registration of the T2 and DWI b1200 MRI Sequences of the Prostate". 
 
-[Project webpage](https://rosikand.github.io/research/canary.html) | [Report](https://rosikand.github.io/files/canary-paper.pdf) | [Poster](https://rosikand.github.io/files/canary-poster.pdf) 
+[Project page](https://rosikand.github.io/research/canary.html) | [Report](https://rosikand.github.io/files/canary-paper.pdf) | [Poster](https://rosikand.github.io/files/canary-poster.pdf) 
 
 
 ## Structure
