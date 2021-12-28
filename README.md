@@ -1,6 +1,4 @@
-# Canary CREST Research Code
-
-![image](https://user-images.githubusercontent.com/57341225/147578592-132b7529-2281-42e1-8589-c5e9eaee27fa.png)
+# 🌙 Canary CREST Research Code
 
 Source code regarding my research during the Canary CREST Research Program, Summer 2021. 
 
