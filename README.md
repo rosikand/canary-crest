@@ -1,6 +1,7 @@
 # Canary CREST Research Code
 
-Source code regarding my research during the Canary CREST Research Program, Summer 2021. 
+Source code regarding my research during the Canary CREST Research Program, Summer 2021. Project: "Registration of the T2 and DWI b1200 MRI
+Sequences of the Prostate". 
 
 ## Structure
 
